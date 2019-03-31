@@ -89,7 +89,7 @@ export default {
     font-smoothing antialiased
     padding 16px 16px 16px 36px
     border none
-    box-shadow inset 0 -2px 1px rgba(0, 0, 0, 0.03)
+    box-shadow inset 0 -2px 1px rgba(0, 0, 0, 0.05)
     
 </style>
 
